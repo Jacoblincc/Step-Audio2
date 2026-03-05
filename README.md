@@ -126,6 +126,11 @@ python web_demo.py
 ```
 
 
+
+## Fine-tuning (SFT)
+
+We provide an end-to-end SFT training entrypoint with support for full/LoRA, single-node multi-GPU, multi-node multi-GPU, and DeepSpeed in [`finetune/README.md`](finetune/README.md).
+
 ## Online demonstration
 
 ### StepFun realtime console
